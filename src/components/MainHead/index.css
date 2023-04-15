@@ -1,0 +1,27 @@
+.mainhead-card {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    margin-top: 200px;
+} 
+
+.first-line {
+    color: #fff; 
+    font-family: inherit; 
+    font-weight: 100; 
+    font-size: 55px;
+} 
+
+.second-line {
+    color: #fff; 
+    font-family: inherit; 
+    font-weight: bold; 
+    font-size: 65px;
+} 
+
+.third-line {
+    color: #ffffff80; 
+    font-family: inherit; 
+    font-weight: 100; 
+    font-size: 22px;
+}
